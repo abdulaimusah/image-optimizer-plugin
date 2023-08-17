@@ -57,7 +57,7 @@ _Description of Screenshot 2._
 
 ## Support
 
-For support and inquiries, please contact us at support@example.com.
+For support and inquiries, please contact us at abdulaimusah31@gmail.com
 <!---
 ## License
 
